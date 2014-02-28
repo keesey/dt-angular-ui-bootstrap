@@ -1,0 +1,8 @@
+{
+  "name": "dt-angular-ui-bootstrap",
+  "version": "1.0.0",
+  "main": "angular-ui-bootstrap.d.ts",
+  "dependencies": {
+    "dt-angular": "~1.2.0"
+  }
+}

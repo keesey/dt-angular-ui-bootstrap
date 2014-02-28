@@ -1,4 +1,4 @@
 dt-angular-ui-bootstrap
 =======================
 
-TypeScript Declarations for Angular UI Bootstrap from DefinitelyTyped
+TypeScript Declaration for Angular UI Bootstrap from DefinitelyTyped
